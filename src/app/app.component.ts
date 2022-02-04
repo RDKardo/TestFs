@@ -1,4 +1,6 @@
 import { Component } from '@angular/core';
+//import { writeFileSync, readFileSync } from 'fs';
+//import * as fs from 'fs';
 
 @Component({
   selector: 'app-root',
